@@ -102,7 +102,7 @@ author: Posted by CJ.
 
 这里我整理了一份clover四叶草引导的简要说明**思维导图**。仅参考。
 
-![](http://githubluffythinkio.oss-cn-beijing.aliyuncs.com/typora/Hackintosh-EFI- Clover文件夹结构.png)
+![](https://raw.githubusercontent.com/luffythink/Hackintosh-EFI/master/Hackintosh-EFI-%20Clover%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.png)
 
 
 
