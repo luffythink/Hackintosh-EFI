@@ -1,14 +1,9 @@
 ---
-layout: post
 title:  "Hackintosh记录"
 categories: CS/Notes
 tags: Hackintosh
 author: Posted by CJ.
 ---
-* content
-{:toc}
-
-
 
 >关于家里主力输出设备台式机折腾黑苹果的一些总结记录。项目中的CLOVER经过不断测试优化已99%完美，目前稳定运行ing：）
 
